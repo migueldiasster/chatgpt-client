@@ -18,7 +18,7 @@ You need Python and Git installed on your system.
 
 Clone the repository:
 
-`git clone https://github.com/marcolardera/chatgpt-cli.git`
+`[git clone https://github.com/migueldiasster/chatgpt-client.git]`
 
 `cd chatgpt-cli`
 
